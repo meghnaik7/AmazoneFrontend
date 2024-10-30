@@ -1,2 +1,1 @@
-My fronteng Project :
-Amazone Homepage
+My fronteng Project : Amazone Homepage
